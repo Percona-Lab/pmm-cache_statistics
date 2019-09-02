@@ -52,7 +52,7 @@
   "gnetId": null,
   "graphTooltip": 0,
   "id": null,
-  "iteration": 1567104676791,
+  "iteration": 1567434708417,
   "links": [],
   "panels": [
     {
@@ -256,7 +256,7 @@
         "multi": true,
         "name": "table_name",
         "options": [],
-        "query": "label_values(mysql_innodb_cached_indexes_cached_bytes{schema_name=\"$schema_name\"},table_name)",
+        "query": "label_values(mysql_innodb_cached_indexes_cached_bytes{schema_name=~\"$schema_name\"},table_name)",
         "refresh": 1,
         "regex": "",
         "sort": 0,
@@ -300,5 +300,5 @@
   "timezone": "",
   "title": "MySQL InnoDB Index Statistics",
   "uid": "umfD3mDWk",
-  "version": 62
+  "version": 2
 }
