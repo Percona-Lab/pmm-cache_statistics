@@ -52,7 +52,7 @@
   "gnetId": null,
   "graphTooltip": 0,
   "id": null,
-  "iteration": 1567434708417,
+  "iteration": 1567517698549,
   "links": [],
   "panels": [
     {
@@ -298,7 +298,7 @@
     ]
   },
   "timezone": "",
-  "title": "MySQL InnoDB Index Statistics",
+  "title": "MySQL Cache Statistics",
   "uid": "umfD3mDWk",
   "version": 2
 }
