@@ -58,7 +58,7 @@
   "gnetId": null,
   "graphTooltip": 0,
   "id": null,
-  "iteration": 1567630301264,
+  "iteration": 1567688850235,
   "links": [
     {
       "icon": "dashboard",
@@ -372,7 +372,7 @@
         }
       ],
       "thresholds": "",
-      "title": "InnoDB Cached Indexes",
+      "title": "Size of InnoDB Cached Indexes",
       "type": "singlestat",
       "valueFontSize": "80%",
       "valueMaps": [
@@ -604,7 +604,7 @@
         }
       ],
       "thresholds": "",
-      "title": "Schema Cached Indexes",
+      "title": "Size of Schema Cached Indexes",
       "type": "singlestat",
       "valueFontSize": "80%",
       "valueMaps": [
@@ -685,7 +685,7 @@
         }
       ],
       "thresholds": "",
-      "title": "Table Cached Indexes",
+      "title": "Size of Table Cached Indexes",
       "type": "singlestat",
       "valueFontSize": "80%",
       "valueMaps": [
@@ -800,5 +800,5 @@
   "timezone": "",
   "title": "MySQL InnoDB Cached Indexes",
   "uid": "umfD3mDWk",
-  "version": 24
+  "version": 29
 }
